@@ -1,0 +1,15 @@
+WEB SERVER README:
+
+This project teaches us how a server and client communicate
+by sending and recieving html files
+
+The Server must be up in running first, then run client
+and enter the Server information. After this type the absolute
+file path to get the file. The client should then print the file
+
+- run server
+- run client
+- enter server info
+- enter file path
+- client should return HTTP/1.1 200 OK
+hi
